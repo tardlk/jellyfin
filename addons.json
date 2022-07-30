@@ -6,7 +6,6 @@
     "description": "Scrape media's metadata from Douban",
     "owner": "caryyu",
     "overview": "Get your Movie/TV metadata from Douban",
-    "imageUrl": "https://ghproxy.com/https://raw.githubusercontent.com/caryyu/jellyfin-plugin-repo/master/image.png",
     "versions": [
       {
         "checksum": "03a2da219b5a25a78dda3073cabfa510",
